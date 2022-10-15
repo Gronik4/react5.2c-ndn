@@ -37,4 +37,4 @@
 
 **Project Sample** 
 
-[Посмотреть результат]( )
+[Посмотреть результат]( https://gronik4.github.io/react5.2c-ndn/ )
