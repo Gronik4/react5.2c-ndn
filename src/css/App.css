@@ -1,0 +1,64 @@
+body {margin: 0; padding: 0;}
+* {box-sizing: border-box;}
+  .container {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding-top:5px;
+    text-align: center;
+    background: #FFFADB;
+    color: blue;
+  }
+    .App {
+/* Required properties */
+      width: 96%;
+      height: calc(100vh - 47px);
+      margin: auto;
+      color: #000;
+      background: #fff;
+      overflow: auto;
+      border: 1px solid #000;
+      border-top: 1px solid #fff;
+/* project properties */
+
+    }
+      .head{display: flex;}
+        .header_right{width: 30%; text-align: left; padding: 1vh;}
+        .header_left{width: 70%; text-align: left; padding: 1vh;}
+          .head_header{
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            align-items: baseline;
+          }
+        .head_сurrencies {
+          display: flex;
+          justify-content: space-around;
+          align-items: baseline;
+        }
+        .sitebare {
+          width: 75%;
+          display: flex;
+          justify-content: space-around;
+        }
+        .search{text-align: left;}
+          .search_form_input {
+            width: 75%;
+            height: 40px;
+          }
+        .various {
+          width: 90%;
+          margin: auto;
+          display: flex;
+          flex-wrap: wrap;
+        }
+        .var {
+          width: 30%;
+          height: min-content;
+          padding: 1vw;
+          text-align: left;
+        }
+          .weather_cont {display: flex;}
+        .ether {text-align: left;}
+            .ether_linkName {color: rgb(160, 163, 162);}
+            .tvprogram_explan {color: rgb(160, 163, 162);}
