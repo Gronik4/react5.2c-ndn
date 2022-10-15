@@ -35,6 +35,6 @@
          'VisitAndTv'. Что выводить определяется пропсами. Данные приходят с сервера. Реализовано через получение даных
          из файлов 'DATA/visit.js' и 'DATA/tvProgram.js'.
 
-**Project Sample** 
+**Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/go9hgwob7idsq03b?svg=true)](https://ci.appveyor.com/project/Gronik4/react5-2c-ndn)
 
 [Посмотреть результат]( https://gronik4.github.io/react5.2c-ndn/ )
